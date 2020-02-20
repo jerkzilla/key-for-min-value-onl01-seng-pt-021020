@@ -16,7 +16,7 @@ def key_for_min_value(name_hash)
   elsif num == 10
    return name
  else
-     puts name_hash
+     puts key_for_min_value
    end
   end
 end
