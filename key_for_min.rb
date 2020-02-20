@@ -3,5 +3,5 @@
 
 def key_for_min_value(name_hash)
   hash.each do |key|
-    "#{key}""
+    puts "#{key}""
 end
